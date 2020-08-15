@@ -25,7 +25,8 @@
   * `npm install dotenv`
 
   ## Usage
-  Type 'npm start' in the command line to initiate the application.
+  To initialize the application enter this command in the command line:
+  'npm start'
 
   Tutorial/Walkthrough Video:
   https://drive.google.com/file/d/1c2-2jNLGBDVbYQ30PrTkUxvifIwHcGvW/view
