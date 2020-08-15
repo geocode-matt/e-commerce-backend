@@ -26,7 +26,7 @@
 
   ## Usage
   To initialize the application enter this command in the command line:
-  * 'npm start'
+  * `npm start`
 
   Tutorial/Walkthrough Video:
   https://drive.google.com/file/d/1c2-2jNLGBDVbYQ30PrTkUxvifIwHcGvW/view
