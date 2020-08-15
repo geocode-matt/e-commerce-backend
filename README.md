@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/deannpi/e-commerce-orm)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/deannapi/e-commerce-orm)
-![GitHub repo size](https://img.shields.io/github/repo-size/deannapi/e-commerce-orm)
+![GitHub top language](https://img.shields.io/github/languages/top/geocode-matt/e-commerce-backend)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/geocode-matt/e-commerce-backend)
+![GitHub repo size](https://img.shields.io/github/repo-size/geocode-matt/e-commerce-backend)
 ![GitHub](https://img.shields.io/github/license/deannapi/e-commerce-orm)
 
 # E-Commerce Backend Application (ORM)
