@@ -19,12 +19,10 @@
   Download the application from the GitHub repository here: https://github.com/geocode-matt/e-commerce-backend.
 
     Install the application dependencies in the command line with these commands:
-  `npm install express sequelize mysql2`
-  `npm install --save sequelize`
-  `npm install bcrypt`
-  `npm install dotenv`
-
-    Type `npm start` to initialize the application
+  * `npm install express sequelize mysql2`
+  * `npm install --save sequelize`
+  * `npm install bcrypt`
+  * `npm install dotenv`
 
   ## Usage
   Type 'npm start' in the command line to initiate the application.
