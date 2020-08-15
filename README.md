@@ -28,8 +28,8 @@
   Type 'npm start' in the command line to initiate the application.
 
   Tutorial/Walkthrough Video:
-  https://drive.google.com/file/d/14ZepGA8_C1nA3aoE39V_yUE3wkUipeq_/view
-      
+  https://drive.google.com/file/d/1c2-2jNLGBDVbYQ30PrTkUxvifIwHcGvW/view
+    
   ## Contribution Guidelines
   Please email the project owner (mlindenx@email.com) for contribution information. 
 
